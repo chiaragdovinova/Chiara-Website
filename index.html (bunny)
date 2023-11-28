@@ -1,9 +1,27 @@
 <html>
 <style>
-  body (background-color: colour: rgb(0, 255, 13)
+body {
+  background-color: #a5905a;
+}
+
 </style>
-</body>
 </html>
     <h1> <strong> The best pet.</strong></h1>
-    <p> Bunny - Bunnies are small, furry mammals with long ears, short fluffy tails, and strong, large hind legs.  </p>
-<img src="https://i.pinimg.com/736x/d5/00/9a/d5009a7119e2af2ee512d1a145e05f94.jpg" width=265 height=280>
+    <p> Bunnies are small, furry mammals with long ears, short fluffy tails, and strong, large hind legs.  </p>
+    <img src="https://i.pinimg.com/736x/d5/00/9a/d5009a7119e2af2ee512d1a145e05f94.jpg" width=340 height=360>
+    <img src="https://d1jj76g3lut4fe.cloudfront.net/processed/thumb/n8Tr36iR6718HJ.png?Expires=1700063180&Signature=lfPdbAepDxVwJ~lbTJwab7kehsEeSSZhWPFUr~WRPRawXwzMlshO332b~qI1kYwPM89ZZy0AISqNJctjS6O6E80MD-s8PsrPgtnfYih-WSmT8pdgyr13j00hepvlSz8460vZhiHG1fp~8GuNwaZDHfqmtIBFZixycXvLHtNpq4z0ThdBDiHtSR6DvbiCHfqi7Rg62c8uckRoMUPF5q4awS0IRv7TjPF06dnfNTjMpoY9dNR9USzjiUDpOoOwUxN6r82A-BA~e25XsNALkAQlY7omym6Qlf-~v3~qcjMljYMKPLbwgNVb92t0BzIoKHnc5eWcyCpNB1HOKavOson5ag__&Key-Pair-Id=K2YEDJLVZ3XRI" width=312 height=324>
+
+     <h3> <strong> Why you should get a bunny.</strong></h3>
+  <ol>
+  <li>They are too cute!</li>
+  <li>They are very energetic.</li>
+  <li>They love to play.</li>
+  <li>They are very independent </li>
+</ol>  
+  <h3> <strong> Why you shouldn't get a bunny.</strong></h3>
+  <ol>
+  <li>They live about 8-12 years.</li>
+  <li>They are very sensitive.</li>
+  <li>They are not the best pets for <strong> children</strong></li>
+  <li> They could possibly scratch you. </li>
+</ol>
